@@ -179,7 +179,7 @@
             include 'formats'
        
             Mdot_low = -8 +  0.7*log10_cr(L1/Lsun) - 0.7*log10_cr(M1/Msun)
-            Mdot_high = -24 + 4.8*log10_cr(L1/Lsun) - 3.99*log10_cr(M1/Msun)
+            Mdot_high = -24 + 4.77*log10_cr(L1/Lsun) - 3.99*log10_cr(M1/Msun)
 
             log10w = MAX(Mdot_low, Mdot_high)
 
