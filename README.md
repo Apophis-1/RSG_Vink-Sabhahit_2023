@@ -1,6 +1,6 @@
 # RSG Mass-Loss Implementation (Vink & Sabhahit 2023)
 
-MESA Inlist and run_star_extras file to reproduce the results from [Vink & Sabhahit (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...678L...3V/abstract) - New mass-loss rates for red supergiants and other cool massive stars
+MESA Inlist and run_star_extras file to reproduce the results from [Vink & Sabhahit (2023)](https://ui.adsabs.harvard.edu/abs/2023A%26A...678L...3V/abstract) - Exploring the Red Supergiant wind kink. A Universal mass-loss concept for massive stars.
 
 **Links:**
 - https://www.aanda.org/articles/aa/pdf/2023/10/aa47801-23.pdf
@@ -8,8 +8,7 @@ MESA Inlist and run_star_extras file to reproduce the results from [Vink & Sabha
 
 # Overview
 
-Mass loss for red supergiants (RSGs) oft use empirical prescriptions like de Jager et al. (1988) with mass-loss scaling with luminosity. However, Yang et al. 2023 showcase an empirical mass-loss kink with the mass loss scaling steeply above log(L/L☉) of 4.5. We formulate a mass loss scaling with the luminosity to current mass ratio based on these empirical rates transitioning from a shallow to steep scaling. The paper is available at <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...678L...3V/abstract" target="_blank">Vink & Sabhahit (2023)</a> - Exploring the Red Supergiant wind kink. A Universal mass-loss concept for massive stars.
-
+Mass loss for red supergiants (RSGs) oft use empirical prescriptions like de Jager et al. (1988) with mass-loss scaling with luminosity. However, Yang et al. 2023 showcase an empirical mass-loss kink with the mass loss scaling steeply above log(L/L☉) of 4.5. We formulate a mass loss scaling with the luminosity to current mass ratio based on these empirical rates transitioning from a shallow to steep scaling. 
 
 ### Summary of Mass Loss Used
 
