@@ -61,7 +61,7 @@
   ! -- starting specifications (mass and metallicity) --
     initial_mass = 35
     initial_z = 0.02
-    log_directory ='/Users/gauthamsabhahit/Documents/mesa-r12115/work/RSG_mass_loss_paper/MODELS/LOGS_35_1'
+    log_directory ='MODELS/LOGS_35'
 
 
   ! -- opacities (massive star defaults) --
